@@ -43,6 +43,11 @@ params:
   showtoc: false
   tocopen: false
 
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
 menu:
   main:
     - identifier: categories
@@ -53,10 +58,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example
-      url: /example.org
-      weight: 30
+    - identifier: series
+      name: Series
+      url: /series/
+      weight: 15
     - identifier: posts
       name: Posts
       url: /posts/
