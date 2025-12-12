@@ -1,6 +1,9 @@
 ---
 title: "大甲溪流域深度探索 (Dajia River Deep Exploration) - 露營/車宿版"
 date: 2025-12-01
+categories: ["大甲溪"]  
+series: ["2025台灣河流探索-大甲溪"] 
+tags: ["車宿", "露營", "大甲溪"]
 draft: false
 ---
 
@@ -67,5 +70,3 @@ draft: false
 *   **天氣變化**：山區與河谷早晚溫差大，露營請備妥保暖衣物。
 *   **環保無痕**：車宿與露營請遵守 LNT (Leave No Trace) 原則，帶走所有垃圾，保護河川環境。
 
-## Google My Maps
-<iframe src="https://www.google.com/maps/d/embed?mid=1f1PFVgiznrWtgBq7ZSY4R4EpPH1yQNw&hl=zh-TW&ehbc=2E312F" width="640" height="480"></iframe>
