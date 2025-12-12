@@ -10,7 +10,7 @@ summary: "查看最新的河流探索計畫進度，並報名加入我們的旅�
 ## 📝 旅伴招募表單 (Join Us!)
 
 **不管您對哪一條河流或哪一次行程感興趣，都請先填寫這張表單！**
-表單內可選擇您想參加的特定行程（如大甲溪、頭前溪等），有新計畫時我們也會優先通知您。
+表單主要是聊聊天的意願表達，如果你想一起走一段，也歡迎表達。
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYNkNmLLpFGwHGHLlFntQ7fxS-RqiY0NBHMoee-bd80sxHkg/viewform?embedded=true" width="100%" height="1218" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe>
 
@@ -23,6 +23,9 @@ summary: "查看最新的河流探索計畫進度，並報名加入我們的旅�
 *   **活動性質**：車泊/露營 + 單車 + 文化走讀。
 *   **預計時間**：2026 年 1 月 (平日)。
 *   **聊聊、一起廝混一下**：**意願表達中** (請填上方表單)。
+- 明光在高美濕地，負責晚餐
+- 企鵝有想一起走部分
+
 
 ---
 
