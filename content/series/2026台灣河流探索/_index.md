@@ -1,8 +1,8 @@
 ---
-title: "2025台灣河流探索"
+title: "2026台灣河流探索"
 description: "沿著台灣母親之河，從中游山城到海口濕地的露營與車宿探險紀錄。"
 hidemeta: true 
-series: ["2025台灣河流探索"] 
+series: ["2026台灣河流探索"] 
 tags: ["README"]
 draft: false
 ---

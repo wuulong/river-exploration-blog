@@ -2,7 +2,7 @@
 title: "后里環保公園 (Houli Eco Park) 車泊攻略"
 date: 2025-12-01
 categories: ["大甲溪"]  
-series: ["2025台灣河流探索-大甲溪"] 
+series: ["2026台灣河流探索-大甲溪"] 
 tags: ["車宿", "露營", "大甲溪"]
 draft: false
 ---
