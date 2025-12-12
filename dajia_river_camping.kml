@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>大甲溪流域深度探索 (Dajia River Deep Exploration)</name>
+    <description>
+      <![CDATA[
+      <h1>2025 露營之旅 - 大甲溪探索</h1>
+      <p>從山城到海口的深度河川探訪之旅，包含露營與車宿點，以及豐富的人文歷史景點。</p>
+      <ul>
+        <li><b>起點：</b> 后里馬場 / 后豐鐵馬道</li>
+        <li><b>核心體驗：</b> 花樑鋼橋、石岡水壩、忘憂谷堤防</li>
+        <li><b>文化知性：</b> 林業文化園區、鯉魚伯公廟</li>
+        <li><b>終點：</b> 高美濕地夕陽</li>
+        <li><b>導航路線：</b> 包含從馬陵溫泉到高美濕地的完整河川路徑</li>
+      </ul>
+      ]]>
+    </description>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="line-river-route">
+      <LineStyle>
+        <color>ff0000ff</color> <!-- Red line -->
+        <width>5</width>
+      </LineStyle>
+    </Style>
+     <Style id="line-driving-route">
+      <LineStyle>
+        <color>ff000000</color> <!-- Black line for long scenic drive -->
+        <width>4</width>
+      </LineStyle>
+    </Style>
+
+    <Folder>
+      <name>探訪點 (Waypoints)</name>
+      <Placemark>
+        <name>1. 后里馬場 (Houli Horse Ranch)</name>
+        <description>自行車租借與出發點，腹地廣大。</description>
+        <Point>
+          <coordinates>120.73582,24.298637,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2. 九號隧道 (Tunnel No. 9)</name>
+        <description>百年舊山線鐵道隧道，天然冷氣房，見證交通變革。</description>
+        <Point>
+          <coordinates>120.730,24.290,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3. 大甲溪花樑鋼橋 (Hualiang Steel Bridge)</name>
+        <description>橫跨大甲溪的絕美鋼橋，眺望中游寬闊河床的最佳地點，結合力與美的建築。</description>
+        <Point>
+          <coordinates>120.7457,24.2805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4. 石岡水壩 (Shigang Dam)</name>
+        <description>921地震紀念地，觀察斷壩遺跡與車籠埔斷層的震撼力量。</description>
+        <Point>
+          <coordinates>120.76917,24.28139,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5. 東勢河濱公園 (Dongshi Riverside Park)</name>
+        <description>大甲溪畔的廣大綠地，適合野餐或休息的中繼站。</description>
+        <Point>
+          <coordinates>120.825,24.258,0</coordinates> <!-- Approx -->
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6. 外埔忘憂谷觀景台 (Waipu Wangyou Valley)</name>
+        <description>位於大甲溪北岸堤防，可俯瞰稻浪與河谷，欣賞河階農業地景。</description>
+        <Point>
+          <coordinates>120.648,24.315,0</coordinates> <!-- Approx -->
+        </Point>
+      </Placemark>
+       <Placemark>
+        <name>7. 高美濕地 (Gaomei Wetlands)</name>
+        <description>大甲溪出海口，前身為海水浴場，現為雲林莞草與招潮蟹的生態寶庫。</description>
+        <Point>
+          <coordinates>120.555,24.312,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8. 谷關風景區 (Guguan Scenic Area)</name>
+        <description>大甲溪上游，泰雅族傳統領域，溫泉與峽谷吊橋。</description>
+        <Point>
+          <coordinates>121.006,24.204,0</coordinates>
+        </Point>
+      </Placemark>
+       <Placemark>
+        <name>9. 馬陵溫泉入口 (Maling Hot Spring Entrance)</name>
+        <description>大甲溪野溪溫泉，進階探險點。(需注意旱季與安全)</description>
+        <Point>
+          <coordinates>121.025,24.200,0</coordinates> <!-- Approx start point near Guguan -->
+        </Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>人文知性點 (Cultural Spots)</name>
+      <Placemark>
+        <name>I. 東勢林業文化園區 (Dongshi Forestry Culture Park)</name>
+        <description>前身為大雪山林業製材廠，見證東勢木材之都的繁華歷史。</description>
+        <Point>
+          <coordinates>120.833667,24.243833,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>II. 東勢鯉魚伯公廟 (Dongshi Liuyu Bogong Temple)</name>
+        <description>罕見建於堤防上的土地公廟，形似鯉魚，展現先民治水信仰。</description>
+        <Point>
+          <coordinates>120.829141,24.258245,0</coordinates> <!-- Estimated coordinates based on address No. 123, Wenhua St -->
+        </Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>露營與車宿點 (Camping &amp; Car Sleep)</name>
+      <Placemark>
+        <name>A. 后里環保公園 (Houli Eco Park)</name>
+        <description>推薦車宿點，合法車泊專區，環境清幽。</description>
+        <Point>
+          <coordinates>120.70574,24.28819,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>B. 后里游泳池 (Houli Swimming Pool)</name>
+        <description>車泊洗澡推薦點，全票$100，有熱水淋浴。</description>
+        <Point>
+          <coordinates>120.7042,24.2936,0</coordinates> <!-- Estimated nearby Houli Eco Park - TiFang Rd -->
+        </Point>
+      </Placemark>
+       <Placemark>
+        <name>C. 松滋露營區 (Songzi Camping)</name>
+        <description>臨近大甲溪畔的露營區，適合家庭。</description>
+        <Point>
+          <coordinates>120.850,24.220,0</coordinates> <!-- Approx, check online -->
+        </Point>
+      </Placemark>
+    </Folder>
+    
+    <Folder>
+      <name>河川探訪路徑 (River Route)</name>
+       <Placemark>
+        <name>單車路線：后里-石岡 (Bike Route)</name>
+        <description>穿越隧道與鋼橋，貼近大甲溪中游。</description>
+        <styleUrl>#line-river-route</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            120.73582,24.298637,0
+            120.730,24.290,0
+            120.7457,24.2805,0
+            120.76917,24.28139,0
+            120.825,24.258,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>行車路線：馬陵溫泉-高美濕地 (Full Driving Route)</name>
+         <description>從上游峽谷，經由中游山城，一路開往出海口。盡量貼近河岸行駛。</description>
+         <styleUrl>#line-driving-route</styleUrl>
+         <LineString>
+           <tessellate>1</tessellate>
+           <coordinates>
+             121.025,24.200,0
+             121.006,24.204,0
+             120.833667,24.243833,0
+             120.76917,24.28139,0
+             120.648,24.315,0
+             120.555,24.312,0
+           </coordinates>
+         </LineString>
+       </Placemark>
+    </Folder>
+  </Document>
+</kml>

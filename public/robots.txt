@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://localhost:64881/river-exploration-blog/sitemap.xml
