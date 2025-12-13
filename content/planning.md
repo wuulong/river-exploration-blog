@@ -12,6 +12,9 @@ summary: "查看最新的河流探索計畫進度，並報名加入我們的旅�
 **不管您對哪一條河流或哪一次行程感興趣，都請先填寫這張表單！**
 表單主要是聊聊天的意願表達，如果你想一起走一段，也歡迎表達。
 
+> **🚀 想更深入討論行程或裝備？**
+> 歡迎加入我們的 Discord 社群 **[🧪 哈爸實驗室](https://discord.gg/DMknUBmV)**，這裡有更多即時的技術交流與私房資訊。
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYNkNmLLpFGwHGHLlFntQ7fxS-RqiY0NBHMoee-bd80sxHkg/viewform?embedded=true" width="100%" height="1218" frameborder="0" marginheight="0" marginwidth="0">載入中…</iframe>
 
 ---
