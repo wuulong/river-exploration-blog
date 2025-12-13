@@ -18,6 +18,7 @@ summary: "本實驗使用 GDAL/ogr2ogr 工具，從中央管河川區域 Shapefi
 *   **專案目錄**：`~/github/bmad-pa`
 *   **工具環境**：Conda 環境 `m2504` (安裝 Fiona, GDAL)
 *   **資料來源**：`RIVERL-中央管河川區域/RIVERL.shp` (Big5 編碼)
+*   **GenAI 工具**：`gemini cli with gemini-2.5-flash`, `gov_openapi_agent MCP tool` 
 
 ## 實驗步驟與過程
 
