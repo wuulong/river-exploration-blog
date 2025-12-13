@@ -24,6 +24,9 @@ TocOpen: true
 ## 相關導航資訊
 - [大甲溪沿路導航_谷關伊豆日式露天溫泉->高美濕地](https://maps.app.goo.gl/9TsLb6zTvrA7xxaK8)
 
+## 相關資料
+- [notebooklm-台灣河川探索誌-大甲溪](https://notebooklm.google.com/notebook/0f2a5494-1a72-4081-8db7-e6a93fc64b5e)
+
 ## 📚 系列文章導覽
 下方列出了本系列的詳細遊記與攻略，包含露營點介紹、文化導覽以及每日的行程紀錄：
 
