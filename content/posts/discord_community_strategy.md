@@ -1,6 +1,6 @@
 ---
 title: "打造個人品牌宇宙：Discord 單一伺服器多專案管理策略"
-date: 2025-12-13
+date: 2025-12-13T07:53:46+08:00
 categories: ["社群經營", "筆記"]
 series: ["2026台灣河流探索"]
 tags: ["Discord", "Community Management", "Personal Branding"]

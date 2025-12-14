@@ -1,6 +1,6 @@
 ---
 title: "實驗紀錄：使用 GDAL 進行大甲溪流域 1km 緩衝區萃取與合併"
-date: 2025-12-13T14:58:00+08:00
+date: 2025-12-13T14:57:15+08:00
 draft: false
 categories: ["GIS", "Data Experiment"]
 tags: ["GDAL", "ogr2ogr", "KML", "Buffer", "ST_Union", "Big5", "大甲溪"]

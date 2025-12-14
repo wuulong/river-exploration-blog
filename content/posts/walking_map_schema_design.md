@@ -1,8 +1,8 @@
 ---
 title: "大甲溪散步地圖：SQLite Schema 設計與 SpatiaLite 應用"
-date: 2025-12-13
+date: 2025-12-14T07:45:00+08:00
 categories: ["GIS", "技術筆記"]
-series: ["2026台灣河流探索-大甲溪"]
+series: ["2026台灣河流探索","GenAI"]
 tags: ["SQLite", "SpatiaLite", "Schema Design", "QGIS", "Open Data"]
 draft: false
 ShowToc: true

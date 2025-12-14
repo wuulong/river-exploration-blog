@@ -1,12 +1,13 @@
 ---
 title: "幕後紀實：GenAI 如何協助我從零啟動「台灣河流探索」計畫"
-date: 2025-12-13
+date: 2025-12-13T07:06:56+08:00
 categories: ["探索筆記", "幕後花絮"]
-series: ["2026台灣河流探索"]
+series: ["GenAI"]
 tags: ["GenAI", "Hugo", "Project Management", "AI協作"]
 draft: false
 ShowToc: true
 TocOpen: true
+weight: 1
 ---
 
 # 當靈感遇上 AI：一個上午的加速實踐

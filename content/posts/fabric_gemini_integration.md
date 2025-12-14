@@ -1,7 +1,8 @@
 ---
 title: "實驗紀錄：使用 Fabric 封裝 Gemini CLI 提升 AI Agent 協作效率"
-date: 2025-12-13T13:30:00+08:00
+date: 2025-12-13T13:29:48+08:00
 draft: false
+series: ["GenAI"]
 categories: ["DevOps", "GenAI", "Tooling"]
 tags: ["Fabric", "Python", "Gemini CLI", "Automation", "Workflow"]
 author: "Wuulong"

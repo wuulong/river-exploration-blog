@@ -1,7 +1,8 @@
 ---
 title: "實驗紀錄：取得河川流域 Shapefile 圖資並轉換為 KML 匯入 Google My Maps"
-date: 2025-12-13T13:05:00+08:00
+date: 2025-12-13T13:05:11+08:00
 draft: false
+series: ["GenAI"]
 categories: ["GIS", ]
 tags: ["Shapefile", "KML", "Google My Maps", "ogr2ogr", "GDAL", "Open Data", "大甲溪"]
 author: "Wuulong"
