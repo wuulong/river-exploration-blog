@@ -25,7 +25,7 @@ TocOpen: true
 - 明光在高美濕地，負責晚餐
 - 企鵝有想一起走部分
 
-- [大甲溪流域深度探索 (Dajia River Deep Exploration) - 露營/車宿版]({{< relref "posts/dajia_river_camping_trip.md" >}})
+- [大甲溪流域深度探索 (Dajia River Deep Exploration) - 露營/車宿版]({< relref "posts/20251212_dajia_river_camping_trip.md" >})
 
 
 ## 🗺️ 旅程地圖 (River Exploration Map)
